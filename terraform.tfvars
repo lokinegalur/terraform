@@ -1,0 +1,5 @@
+vpc_cidr = "10.0.0.0/16"
+subnet_cidr = "10.0.10.0/24"
+my_ip = "43.247.156.79/32"
+ami = "ami-04893cdb768d0f9ee"
+inst_type = "t2.micro"
